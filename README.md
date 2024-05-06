@@ -10,15 +10,13 @@ Javascript kennis, kun je daarna apps gaan bouwen in React Native. Hiervoor
 gebruiken we Expo als basis waarmee je een gebruiksvriendelijke ontwikkelingomgeving
 hebt waarmee je gemakkelijk kunt testen op je eigen smartphone.
 
-## Voorwaardelijke mini-cases
+## Mini-cases
 
-Om mee te mogen doen aan de eindopdracht moet je de voorwaardelijke mini-cases
-afronden. Je kunt ze [hier](mini-cases) vinden en het bewijs van afronding opleveren
-op Brightspace.
+Je kunt ze [hier](mini-cases) vinden.
 
 ## Eindopdracht
 
-De eindopdracht is vanaf les 6 te vinden in [deze map](eindopdracht)
+De eindopdracht is vanaf les 5 te vinden in [deze map](eindopdracht)
 
 Tip: Als je jouw eigen webservice moet maken kun je de volgende prompt omgeving aan ChatGPT:
 
