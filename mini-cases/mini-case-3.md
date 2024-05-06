@@ -1,6 +1,6 @@
-# Mini-case week 3: Apps maken
+# Mini-case les 3: Apps maken
 
-Deze week maak je je eerste apps. Hiermee oefen je met basistechnieken om een mobile
+Deze les maak je je eerste apps. Hiermee oefen je met basistechnieken om een mobile
 app te maken in Expo/React Native.
 
 ## Installatie

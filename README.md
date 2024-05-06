@@ -18,7 +18,7 @@ op Brightspace.
 
 ## Eindopdracht
 
-De eindopdracht is vanaf week 5 te vinden in [deze map](eindopdracht)
+De eindopdracht is vanaf les 6 te vinden in [deze map](eindopdracht)
 
 Tip: Als je jouw eigen webservice moet maken kun je de volgende prompt omgeving aan ChatGPT:
 

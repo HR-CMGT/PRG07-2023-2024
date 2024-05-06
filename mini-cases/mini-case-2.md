@@ -1,4 +1,4 @@
-# Mini-case week 2: Schrijf je eigen useState functie
+# Mini-case les 2: Schrijf je eigen useState functie
 
 Je gaat aan de slag om je eigen useState functie te schrijven. Door
 hiermee aan de slag te gaan leer je hoe een framework bepaalde zaken op
