@@ -56,5 +56,5 @@ Als opdracht 1 en 2 zijn gelukt heb je in essentie een mooi stukje code ontwikke
 Je hebt het voor elkaar gekregen via een eigen useState functie waardes in een 'set'
 functie aan te passen, en deze in een 'get' functie weer op te halen.
 
-Om helemaal te voldoen aan de React notatie nu de uitdaging om de waardes ook werkend
-te krijgen als je `year` en `favorites` aanroept als variable IPV als functie.
+Om helemaal te voldoen aan de React notatie heb je nu de uitdaging om de waardes ook
+werkend te krijgen als je `year` en `favorites` aanroept als variable IPV als functie.
