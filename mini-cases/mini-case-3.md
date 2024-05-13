@@ -30,7 +30,7 @@ maximaal 100 mensen tegelijk aanwezig mogen zijn van de brandweer).
 
 Gebruik ```console.log``` om de flow van je app te debuggen.
 
-Extra: Lukt het ook om een progressbar van 0-100 toe te voegen?
+> Klaar? Lukt het je ook om een progressbar van 0-100 toe te voegen?
 
 Nuttige links: [Text](https://reactnative.dev/docs/text), [Button](https://reactnative.dev/docs/button),
 [useState](https://react.dev/reference/react/useState), [style](https://reactnative.dev/docs/style),
@@ -45,7 +45,3 @@ Maak een app om een willekeurige quote (inspirerend, grappig,... [bedenk zelf ma
 
 Nuttige links: [Pressable](https://reactnative.dev/docs/pressable),
 [fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-
-## Opdracht 3: TBD
-
-
