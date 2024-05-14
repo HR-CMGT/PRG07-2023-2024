@@ -10,11 +10,11 @@ Het programma *Watchman* dat voorgeschreven wordt voor MacOS, lijkt niet noodzak
 
 Test je installatie door een eerste project aan te maken:
 
-```npx create-expo-app my-app```
+```npx create-expo-app __test --template blank```
 
 En daarna te bekijken met de Expo Go app, op je telefoon:
 
-```npx expo start```
+```npm run start```
 
 **Let op!** Je telefoon moet verbonden zijn met hetzelfde netwerk als je computer.
 
