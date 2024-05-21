@@ -34,7 +34,7 @@ Gebruik ```console.log``` om de flow van je app te debuggen.
 
 Nuttige links: [Text](https://reactnative.dev/docs/text), [Button](https://reactnative.dev/docs/button),
 [useState](https://react.dev/reference/react/useState), [style](https://reactnative.dev/docs/style),
-[alert](https://reactnative.dev/docs/alert)
+[alert](https://reactnative.dev/docs/alert), [Progress](https://www.npmjs.com/package/react-native-progress)
 
 ## Opdracht 2: Random quote app
 
