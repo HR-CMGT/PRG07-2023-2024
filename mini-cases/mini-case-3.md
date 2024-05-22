@@ -11,7 +11,7 @@ Maak je eerste project aan door het volgende commando uit te voeren:
 
 ```npx create-expo-app newproject --template blank```
 
-En daarna te bekijken met de Expo Go app, op je telefoon:
+En daarna te bekijken met de Expo Go app op je telefoon, door in het project het volgende uit te voeren:
 
 ```npm run start```
 
