@@ -37,7 +37,7 @@ Nuttige links: [Text](https://reactnative.dev/docs/text), [Button](https://react
 
 ## Opdracht 2: Random quote app
 
-Maak een app om een willekeurige quote (inspirerend, grappig,... [bedenk zelf maar](https://www.google.nl/search?q=Quote+API&sa=X&ved=2ahUKEwjVucXDn9f3AhVhIMUKHTgYBUsQ1QJ6BAgyEAE)) op de vragen.
+Maak een app om een willekeurige quote (inspirerend, grappig,... [bedenk zelf maar](https://www.google.nl/search?q=Quote+API&sa=X&ved=2ahUKEwjVucXDn9f3AhVhIMUKHTgYBUsQ1QJ6BAgyEAE)) op te vragen.
 
 * Er is alleen een refresh-knop (gebruik hiervoor geen Button component)
 * Zorg dat de app er netjes uitzien
