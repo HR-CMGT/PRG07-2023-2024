@@ -5,10 +5,9 @@ app te maken in Expo/React Native.
 
 ## Installatie
 
-Installeer voor je begint eerst [Expo](https://docs.expo.dev/get-started/installation/).
-Het programma *Watchman* dat voorgeschreven wordt voor MacOS, lijkt niet noodzakelijk.
+Als het goed is heb je alle vereisten al om met Expo te werken.
 
-Test je installatie door een eerste project aan te maken:
+Maak je eerste project aan door het volgende commando uit te voeren:
 
 ```npx create-expo-app newproject --template blank```
 
