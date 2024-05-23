@@ -11,6 +11,8 @@ Maak je eerste project aan door het volgende commando uit te voeren:
 
 ```npx create-expo-app newproject --template blank```
 
+Update bij problemen eerst je npm: ```npm install -g npm@latest```
+
 En daarna te bekijken met de Expo Go app op je telefoon, door in het project het volgende uit te voeren:
 
 ```npm run start```
