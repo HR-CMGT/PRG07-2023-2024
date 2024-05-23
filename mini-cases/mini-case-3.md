@@ -11,11 +11,15 @@ Maak je eerste project aan door het volgende commando uit te voeren:
 
 ```npx create-expo-app newproject --template blank```
 
+Update bij problemen eerst je npm: ```npm install -g npm@latest```
+
 En daarna te bekijken met de Expo Go app op je telefoon, door in het project het volgende uit te voeren:
 
 ```npm run start```
 
 **Let op!** Je telefoon moet verbonden zijn met hetzelfde netwerk als je computer.
+
+[Expo Go App en simulator opties](https://docs.expo.dev/get-started/set-up-your-environment/)
 
 ## Opdracht 1: Teller app
 
