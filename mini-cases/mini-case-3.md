@@ -17,8 +17,7 @@ En daarna te bekijken met de Expo Go app op je telefoon, door in het project het
 
 **Let op!** Je telefoon moet verbonden zijn met hetzelfde netwerk als je computer.
 
-[Expo Go App en simulator opties](https://docs.expo.dev/get-started/set-up-your-environment/ ![image](https://github.com/HR-CMGT/PRG07-2023-2024/assets/6579158/dd5c0de2-98c7-40c4-a5b0-7775c8db9188)
-)
+[Expo Go App en simulator opties](https://docs.expo.dev/get-started/set-up-your-environment/)
 
 ## Opdracht 1: Teller app
 
