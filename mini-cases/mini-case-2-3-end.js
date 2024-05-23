@@ -1,6 +1,6 @@
 /**
  * Code toont uitwerking voor opdracht 3 uit mini-case 2. Je kunt het script zelf
- * aanroepen en het resultaat in je console.log zien.
+ * aanroepen en het resultaat in je console zien.
  *
  * Deze versie support:
  *  - Meerdere Componenten die useState() gebruiken
